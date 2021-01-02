@@ -1,0 +1,8 @@
+asyncio
+colorama
+shutil
+Fore
+Back
+Style
+init
+discord
